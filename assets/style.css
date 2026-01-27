@@ -34,6 +34,26 @@ main {
     margin-top: 30px;
 }
 
+
+.home-intro {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    margin-bottom: 40px;
+}
+
+.home-intro img {
+    width: 120px;
+    /* controls photo size */
+    height: auto;
+}
+
+.home-intro p {
+    margin-top: 0;
+}
+
+/* 
+
 @media (max-width: 600px) {
     body {
         margin: 30px auto;
@@ -44,7 +64,7 @@ main {
         display: inline-block;
         margin-bottom: 8px;
     }
-}
+} */
 
 .profile {
     display: flex;
@@ -70,4 +90,15 @@ main {
     .profile img {
         width: 140px;
     }
+
+    @media (max-width: 600px) {
+        .home-intro {
+            flex-direction: column;
+        }
+
+        .home-intro img {
+            width: 100px;
+        }
+    }
+
 }

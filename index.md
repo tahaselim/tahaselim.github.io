@@ -17,10 +17,29 @@ One or two paragraphs explaining what this site contains.
 - Podcasts
 - Lectures
 
+---
+layout: default
+title: Home
+---
 
-<img src="/assets/images/taha.JPG" alt="Taha Selim">
+<div class="home-intro">
+  <img src="/assets/images/Taha.JPG" alt="Taha Selim">
 
-<div class="profile-text">
+  <p>
+    I am a researcher and educator working on artificial intelligence,
+    machine learning, and the philosophical implications of technology.
+    This website contains my courses, publications, lectures, and
+    long-form discussions.
+  </p>
+</div>
+
+## Content
+
+- Courses
+- Publications
+- Podcasts
+- Lectures
+
 
 # Taha Selim
 
