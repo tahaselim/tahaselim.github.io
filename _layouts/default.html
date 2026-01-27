@@ -22,8 +22,17 @@
         <a href="/interviews">Interviews</a>
     </nav>
 
-    <main>
+    <!-- <main>
         {{ content }}
+    </main> -->
+    <main>
+        {% if page.title == "Home" %}
+        <section class="profile">
+            {{ content }}
+        </section>
+        {% else %}
+        {{ content }}
+        {% endif %}
     </main>
 
 </body>

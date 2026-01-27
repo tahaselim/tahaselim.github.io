@@ -45,3 +45,29 @@ main {
         margin-bottom: 8px;
     }
 }
+
+.profile {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.profile img {
+    width: 160px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.profile-text {
+    flex: 1;
+}
+
+@media (max-width: 600px) {
+    .profile {
+        flex-direction: column;
+    }
+
+    .profile img {
+        width: 140px;
+    }
+}
