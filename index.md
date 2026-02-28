@@ -12,7 +12,12 @@ title: Home
 
 <div class="profile-text">
 
-Dr. Taha Selim is a quantum information and quantum machine learning researcher with a strong background in quantum mechanics, quantum chemistry, and machine learning. He holds a Ph.D. in Quantum Theoretical and Computational Chemistry from Radboud University, an MSc in Physics, Lasers, and Materials from Universite de Bourgogne, and a BSc in Physics/Mathematics from The American University in Cairo. Currently, he serves as a lecturer/researcher of quantum information and computing, and quantum chemistry at the Amsterdam University of Applied Sciences and as the General Manager of MolKet SAS, a company specializing in management consulting and AI services for quantum molecular dynamics, cryptography, and neuromorphic-based computing. 
+I am a quantum information and quantum machine learning researcher with a strong background in quantum mechanics, quantum chemistry, and machine learning. I hold a Ph.D. in Quantum Theoretical and Computational Chemistry from <a href="https://www.ru.nl/">Radboud University</a>, an MSc in Phys  ics, Lasers, and Materials from <a href="https://www.univ-bourgogne.fr/">Universite de Bourgogne</a>, and a BSc in Physics/Mathematics from <a href="https://www.auic.edu.eg/">The American University in Cairo</a>. 
+<br><br>
+Currently, I serve as a lecturer/researcher of quantum information and computing, and quantum chemistry at the <a href="https://www.tilburguniversity.edu/">Amsterdam University of Applied Sciences</a> and as the General Manager of <a href="https://molket.io/">MolKet SAS</a>, a company specializing in management consulting and AI services for quantum molecular dynamics, cryptography, and neuromorphic-based computing. Also, I am founder of iQafé, a company specializing in quantum AI education and adoption.
+<br><br>
+Further, I host three shows: a more business oriented one on <a href="https://www.youtube.com/@iqafe">iQafé Podcast</a>, a more academic one on my personal English channel <a href="https://www.youtube.com/@DrTahaSelim">Taha Selim Open Lab Podcast</a> and also my Arabic channel <a href="https://www.youtube.com/@Dr-Taha-Selim">Taha Selim Podcast - طه سليم </a>.
+
 <!-- 
 ## Content
 
@@ -41,6 +46,16 @@ Dr. Taha Selim is a quantum information and quantum machine learning researcher 
 </section> -->
 <br><br>
 <section>
+<ul>
+<li><strong>English YouTube Channel:</strong> <a href="https://www.youtube.com/@DrTahaSelim">Taha Selim Open Lab</a></li>
+<li><strong>Arabic YouTube Channel:</strong> <a href="https://www.youtube.com/@Dr-Taha-Selim">Taha Selim Podcast - طه سليم</a></li>
+<li><strong>iQafé Podcast:</strong> <a href="https://www.youtube.com/@iqafe">iQafé Podcast</a></li>
+<li><strong>GitHub:</strong> <a href="https://github.com/tahaselim">tahaselim</a></li>
+<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tiselim">tiselim</a></li>
+</ul>
+
+
+
 <strong> Contact Information: </strong>
 <br>
 <ul>
