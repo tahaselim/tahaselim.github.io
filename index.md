@@ -42,22 +42,14 @@ Dr. Taha Selim is a quantum information and quantum machine learning researcher 
 <br><br>
 <section>
 <strong> Information: </strong>
-<br><br>
+<br>
+<ul>
+  <li><strong>MolKet's Email:</strong> <a href="mailto:tahaselim@molket.io">tahaselim@molket.io</a></li>
+  <li><strong>Podcast Guest Inquiries:</strong> <a href="mailto:podcast@tahaselim.com">podcast@tahaselim.com</a></li>
+  <li><strong>Business Collaborations:</strong> <a href="mailto:tahaselim@molket.io">tahaselim@molket.io</a></li>
+  <li><strong>Academic Collaborations:</strong> <a href="mailto:taha@tahaselim.com">taha@tahaselim.com</a></li>
+  <li><strong>Other Inquiries:</strong> <a href="mailto:taha@tahaselim.com">taha@tahaselim.com</a></li>
+</ul>
 
-MolKet's Email: <a href="mailto:tahaselim@molket.io">tahaselim@molket.io</a> 
-
-To be a guest on my podcast, please email me at <a href="mailto:podcast@tahaselim.com">podcast@tahaselim.com</a>
-
-For business collaborations, please email me at <a href="mailto:tahaselim@molket.io">tahaselim@molket.io</a>
-
-For academic collaborations, please email me at <a href="mailto:taha@tahaselim.com">taha@tahaselim.com</a>
-
-For other inquiries, please email me at <a href="mailto:taha@tahaselim.com">taha@tahaselim.com</a>
-
-LinkedIn: <a href="https://www.linkedin.com/in/tiselim/" target="_blank">https://www.linkedin.com/in/tiselim/</a>
-GitHub: <a href="https://github.com/tahaselim/" target="_blank">https://github.com/tahaselim/</a>
-YouTube (English): <a href="https://www.youtube.com/@DrTahaSelim" target="_blank">https://www.youtube.com/@DrTahaSelim</a>
-
-YouTube (Arabic): <a href="https://www.youtube.com/@Dr-Taha-Selim" target="_blank">https://www.youtube.com/@Dr-Taha-Selim</a>
 
 </section>
