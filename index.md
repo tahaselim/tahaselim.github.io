@@ -6,7 +6,7 @@ title: Home
 <section class="profile">
 
 <div class="profile-sidebar">
-  <img src="/assets/images/Taha.JPG" alt="Taha Selim">
+  <img src="/assets/images/taha.JPG" alt="Taha Selim">
   <h3>Taha Selim</h3>
 </div>
 
