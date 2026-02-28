@@ -1,0 +1,329 @@
+---
+layout: default
+title: Talks
+---
+
+# Talks
+
+Here you will find a collection of my recorded lectures, seminars, and presentations on quantum information, machine learning, and quantum chemistry. All arranged in Chronological order.
+
+## Selected Talks
+<!-- Here are some of my selected talks:  -->
+<!-- Example Video Block Structure -->
+<!-- 
+<div class="video-container">
+    <h3>Title of the Talk</h3>
+    <p><em>Conference Name or Event - Year</em></p>
+    <div class="video-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <p>A short description of the material covered in this video presentation.</p>
+</div>
+<hr>
+-->
+
+<!-- add another video container here -->
+<div class="video-container">
+    <h3>Quantum Dynamics of Molecules in Space (February 1st, 2026)</h3>
+    <p><em>How Can Quantum AI Help Reduce Complexity?</em></p>
+    <p><em>Role: Speaker</em></p>
+    <p><em>Language: English</em></p>
+    <p><em>Location: KAUST - King Abdullah University of Science and Technology, Saudi Arabia</em></p>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
+        <img src="/assets/images/1770009882866.jpg" alt="KAUST Talk Photo" style="width: 49%; height: auto; border-radius: 4px;">
+        <img src="/assets/images/1770009881209.jpg" alt="KAUST Talk Photo" style="width: 49%; height: auto; border-radius: 4px;">
+    </div>
+    <p>
+    We discussed state-of-the-art advances in molecular dynamics and Quantum AI, highlighting how the synergy between quantum computing and AI can accelerate progress in quantum simulations. The talk also covered recent developments in quantum-inspired AI algorithms and their emerging potential. 
+    <br><br>
+    We also highlighted our recent work at MolKet on Quantum AI simulations, along with iQafé’s educational vision and ongoing efforts to promote Quantum AI education and adoption globally.
+    <br><br>
+    Special thanks to Dr. <a href="https://www.linkedin.com/in/samar-aseeri-01b9311b/" target="_blank">Samar Aseeri</a> and Prof. <a href="https://www.linkedin.com/in/david-keyes-0b450415/" target="_blank">David Keyes</a> for the kind invite and hosting. 
+    <br><br>
+    Relevent information: You can find the slides <a href="https://github.com/tahaselim/presentations/blob/master/KAUST_Feb_2026/presentation_KAUST_tselim.pdf" target="_blank">here</a>, and the lecture on <a 
+    href="https://qcrg.kaust.edu.sa/meetings.html" target="_blank">
+    KAUST's website</a>
+    <br><br>
+    For more information, check out my LinkedIn <a href="https://www.linkedin.com/posts/tiselim_quantumcomputing-quantumai-research-activity-7423997215381049344--zH0" target="_blank">post</a> and also Dr. Aseeri's LinkedIn <a href="https://www.linkedin.com/posts/samar-aseeri-b08a2b111_quantumcomputing-quantumai-research-activity-7423959538631864320-q4qb" target="_blank">post</a>.
+    </p>
+</div>
+
+<!-- ================================================================= -->
+<!-- Add another video container here -->
+<div class="video-container">
+    <h3>Quantum Error Correction and Future Directions toward Fault-Tolerant Quantum Computing (January 31st, 2026) </h3>
+    <p><em>Quantum AI Lab, iQafé and Bibliotheca Alexandrina</em></p>
+    <p> Language: English </p>
+    <p><em>Role: Speaker/Instructor</em></p>
+    <p><em>Location: Online</em></p>
+    <div class="video-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/8XP_xoPwR9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <p>
+
+We covered Quantum Error Correction and the future directions toward fault.tolerant quantum computing. Addressing one of the most critical challenges in building scalable and reliable quantum computers:
+<br>
+<ul>
+    <li>Why quantum systems are fragile and highly susceptible to noise</li>
+    <li>The fundamental sources of quantum errors and decoherence</li>
+    <li>Core principles behind quantum error correction codes</li>
+    <li>How redundancy and syndrome measurement protect quantum information</li>
+    <li>The limits of current approaches and the path toward fault.tolerant quantum computing</li>
+    <li>Why error correction is essential for practical and scalable quantum computers</li>
+</ul>
+
+Quantum AI lab is part of iQafé and it is organized in collaboration with Bibliotheca Alexandrina. This session is part of the Quantum Computing Track of the Quantum AI Lab. 
+<br><br>
+For more information, visit iQafé's <a href="https://www.linkedin.com/company/iqafe/" target="_blank">LinkedIn page</a> and iQafé's <a href="https://www.youtube.com/@iqafe" target="_blank">YouTube Channel</a>.
+
+ </p>
+</div>
+
+<!-- ================================================================= -->
+<!-- Add another video container here -->
+<div class="video-container">
+    <h3>Quantum Phase Estimation (January 17th, 2026) </h3>
+    <p><em>Quantum AI Lab, iQafé and Bibliotheca Alexandrina</em></p>
+    <p> Language: English </p>
+    <p><em>Role: Speaker/Instructor</em></p>
+    <p><em>Location: Online</em></p>
+    <div class="video-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/8XP_xoPwR9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <p>
+
+We covered Quantum Phase Estimation (QPE). How phase information is extracted from quantum states. And why QPE is a cornerstone of many quantum algorithms:
+<br>
+<ul>
+    <li>What the Quantum Phase Estimation algorithm is and the problem it solves</li>
+    <li>How eigenvalues and phase information are encoded in quantum states</li>
+    <li>The role of controlled-U operations in phase kickback</li>
+    <li>How QFT is used inside QPE to extract phase information</li>
+    <li>The inverse QFT and measurement interpretation in QPE</li>
+    <li>Why QPE is the foundation of Shor’s algorithm and many quantum speedups</li>
+    <li>Hands.on construction and simulation of QPE circuits using Qiskit</li>
+</ul>
+
+Quantum AI lab is part of iQafé and it is organized in collaboration with Bibliotheca Alexandrina. This session is part of the Quantum Computing Track of the Quantum AI Lab. 
+<br><br>
+For more information, visit iQafé's <a href="https://www.linkedin.com/company/iqafe/" target="_blank">LinkedIn page</a> and iQafé's <a href="https://www.youtube.com/@iqafe" target="_blank">YouTube Channel</a>.
+
+ </p>
+</div>
+<!-- ================================================================= -->
+
+<div class="video-container">
+    <h3>Is Time Reversible? The Mystery of Quantum State Collapse (December 22nd, 2025) </h3>
+    <p><em>YouTube Video on <a href="https://www.youtube.com/@DrTahaSelim" target="_blank">Taha Selim's Open Lab Channel</a></em></p>
+    <p> Language: English </p>
+    <p><em>Role: Speaker/Podcaster</em></p>
+    <p><em>Location: Online Video Podcast</em></p>
+    <div class="video-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DfxdxD1rSgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <p>
+
+We covered the mystery of quantum state collapse and the role of time reversibility in quantum mechanics. Why do some of the greatest minds in physics, like Schrödinger and Roger Penrose, claim quantum mechanics might be incomplete? The answer lies in the strange relationship between measurement and the nature of time.
+
+In this video, we dive deep into the "Quantum Realm" to explore why equations like the Schrödinger equation are perfectly reversible in time, yet the act of measurement creates a "one-way street" that we cannot undo.
+
+In This Video, We Explore:
+<br>
+<ul>
+    <li>The Nature of Time: From Newton’s "fixed river" to Einstein’s relative spacetime, and why time remains an external parameter in classical physics.</li>
+    <li>The Quantum Bubble: What happens when a qubit exists in superposition, being 0 and 1 simultaneously.</li>
+    <li>The Measurement Paradox: Why quantum systems are reversible before we look at them, but collapse into a single state once measured.</li>
+    <li>Quantum Gravity & Pixelated Time: Can combining relativity and quantum mechanics prove that space and time are not continuous, but "pixelated"?</li>
+    <li>Consciousness vs. Physics: Does the human mind influence the outcome of quantum experiments, or is the "statistical behavior" a fundamental property of nature itself?</li>
+</ul>
+
+This video is part of my English YouTube Channel, <a href="https://www.youtube.com/@DrTahaSelim" target="_blank">Taha Selim's Open Lab</a>.
+ </p>
+</div>
+<!-- ================================================================= -->
+
+<div class="video-container">
+    <h3> Quantum AI #10: Quantum AI, Quantum Energy Consumption of Quantum Computers, and Quantum Sensing  (December 18th, 2026) </h3>
+    <p><em>Quantum AI Monthly Series organized by <a href="https://www.linkedin.com/company/iqafe/" target="_blank">iQafé</a> and Bibliotheca Alexandrina. </em></p>
+    <p> Language: English </p>
+    <p><em>Role: Speaker/Moderator/Host/Organizer</em></p>
+    <p><em>Location: Online Meeting</em></p>
+    <div class="video-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Hz3m7oIaZ0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <p>
+This video marks the conclusion of the 10th edition of the quantum AI monthly series, reflecting on the "Year of Quantum," 2025. The event brought together global experts to discuss the integration of quantum processing units (QPUs) with classical supercomputing, energy efficiency, and the shift toward "native" quantum algorithms.
+<br><br>
+This summary captures the key activities, technical presentations, and roundtable insights from the 10th edition of the Quantum AI monthly series, reflecting on the "Year of Quantum," 2025.
+<br><br>
+Overview of Activities:
+Presented by Engineer Youssef Eldakar (Bibliotheca Alexandrina), the series is a collaboration with iQafé to build a regional quantum ecosystem.
+Quantum AI Lab: Offers 13 labs in quantum simulation and machine learning.
+C-Forum: A new initiative (c-forum.batics.org) linking HPC with quantum research.
+Hardware Carnival: A co-organized event with IEEE Egypt scheduled for Dec 25th.
+<br><br>
+Roundtable: Future of Quantum Utility
+The panel (Moderator Dr. Taha Selim, Ahmed Sleem, Alain Chancé, Dr. Damir Cavar, and Shwetha) reached a consensus on the following:
+Native vs. Mapped Logic: Dr. Selim and Dr. Cavar warned that "mapping" classical logic (like neural networks) to quantum hardware is inefficient. The future lies in native quantum algorithms that leverage linearity and unitary nature.
+Defining Universality: A "universal" quantum computer should be defined as a machine capable of running any physics-compliant quantum algorithm within a hybrid ecosystem, not a machine that solves every classical problem. In particular Dr. Selim and Sleem defined what a general purpose quantum computer means. 
+Modular Architecture: Ahmed Sleem (IBM) highlighted the shift to modular System Two designs using "C," "M," and "L" couplers to create scalable, heterogeneous environments.
+<br><br>
+Energy Metrics: The true metric for quantum is time-to-solution. A QPU solving in minutes what a supercomputer takes years to solve is inherently more efficient.
+The Human/AI Gap: Alain Chancé noted that humans struggle to visualize high-dimensional quantum spaces; AI may eventually "understand" these states better than we can.
+<br><br>
+The Submarine Analogy: Treating a quantum computer like a faster classical computer is like trying to drive a submarine on a highway. They are both vehicles, but the submarine is built for a different environment (quantum physics). The future is a hybrid network: take the car (CPU) to the dock, and the submarine (QPU) for the deep dive.
+<br><br>
+This video is part of my iQafé, <a href="https://www.youtube.com/@iQafe" target="_blank">YouTube Channel</a>.
+ </p>
+</div>
+
+<!-- ================================================================= -->
+
+<div class="video-container">
+    <h3> Ask Quantum Industry Session 1 (December 7th, 2026) </h3>
+    <p><em>Quantum AI Monthly Series organized by <a href="https://www.linkedin.com/company/iqafe/" target="_blank">iQafé</a> and Bibliotheca Alexandrina. </em></p>
+    <p> Language: English </p>
+    <p><em>Role: Speaker/Panelist</em></p>
+    <p><em>Location: Online Meeting</em></p>
+    <div class="video-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/h8dQ7mGiV0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <p>
+
+In this episode of Ask Quantum Industry, the team reviews key takeaways from the recent IBM Quantum Summit in the Netherlands. We dive deep into IBM’s updated hardware roadmap, the evolution of the Qiskit SDK, and the critical role of hybrid computing in the near future.
+<br><br>
+The discussion explores the tension between rapid software updates and developer stability, the distinction between quantum utility and advantage, and the strategies needed to build thriving quantum ecosystems and startups in emerging markets.
+<br><br>
+<strong>Key Topics Discussed</strong>:
+<br>
+**IBM Quantum Summit Overview**: A look at IBM's global initiatives to expand quantum technology awareness and their aggressive roadmap targeting quantum advantage by 2026 and fault tolerance by 2029.
+<br><br>
+
+The State of Qiskit: Analysis of IBM’s widely used SDK, the challenges of backward compatibility, and the necessity of evolving code to match new chip architectures.
+
+Quantum Utility vs. Advantage: Understanding the nuances between efficiency (advantage) and native capability (utility), with real-world use cases from HSBC, Boeing, and Mercedes.
+
+The Hybrid Future: Why the path forward isn't just quantum, but a seamless integration of quantum processors with classical HPC and AI infrastructure.
+
+Startups & Ecosystems: A candid look at the challenges facing quantum startups, particularly in Africa and Egypt, focusing on the need for funding, incubation, and stronger academic-industry bridges.
+
+<strong>Summary Highlights: </strong>
+<ul>
+    <li><strong>Global Initiatives & Roadmap:</strong> Ahmed Sleem and Taha discuss the significance of the Amsterdam summit in uniting the European and Middle Eastern quantum communities. The group analyzes IBM’s milestones since 2016 and the technological breakthroughs required to meet the 2029 fault-tolerance goal.</li>
+    <li><strong>Software Challenges:</strong> Greg raises important concerns regarding the effort required to maintain code amidst frequent Qiskit updates. The panel discusses the balance between foundational development and community-led innovation, noting the shift toward more tight integration with hardware.</li>
+    <li><strong>Real-World Applications:</strong> The team reviews how noisy quantum systems are already providing value. Highlights include a 37% improvement in bond trade portfolio prediction with HSBC and material discovery projects with Boeing.</li>
+    <li><strong>Educational & Startup Strategy:</strong> The conversation concludes with a focus on the future workforce. From IBM’s FallFests to university hackathons, the group emphasizes that successful quantum startups require a foundation of market-aware research and robust support systems.</li>
+</ul>
+<br>
+This video is part of my iQafé, <a href="https://www.youtube.com/@iQafe" target="_blank">YouTube Channel</a>.
+ </p>
+</div>
+<!-- ================================================================= -->
+
+<div class="video-container">
+    <h3> Why Quantum Mechanics Feels Incomplete: Measurement, Time Reversibility, & Quantum Gravity  (December 6th, 2025) </h3>
+    <p><em>YouTube Video on <a href="https://www.youtube.com/@DrTahaSelim" target="_blank">Taha Selim's Open Lab Channel</a></em></p>
+    <p> Language: English </p>
+    <p><em>Role: Speaker/Podcaster</em></p>
+    <p><em>Location: Online Video Podcast</em></p>
+    <div class="video-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/9tb2fl6CwyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <p>
+Why Quantum Mechanics Feels Incomplete: Quantum Measurement, Quantum Gravity, andTime Algorithm, and Quantization of Time, 
+<br><br>
+If a comet wiped out all life on Earth tomorrow, would time continue to tick? Or does time require a human observer to exist?
+<br><br>
+In this episode, we explore the elusive nature of time—from Isaac Newton’s "fixed river" to Einstein’s relative spacetime. But the real mystery arises when we zoom into the quantum world. Why do some physicists claim quantum mechanics is "incomplete" or "inconsistent" when it comes to time? 
+<br><br>
+We dive deep into the behavior of Qubits, Superposition, and the Collapse of the Wave Function to understand why time seems to be reversible in Schrödinger's equation but becomes strictly irreversible the moment we measure it. Would this form a flaw in quantum mechanics, or is it simply a limit of our current knowledge? Does the universe have a pixelated "resolution"? Is time an algorithm running in the background? Let’s find out.
+<br><br>
+In this video, we cover:
+<ul>
+    <li>The Thought Experiment: What happens to time in an empty universe?</li>
+    <li>Classical vs. Relativistic Time: How gravity and speed change the flow of time.</li>
+    <li>The Quantum Qubit: Understanding superposition and the "quantum bubble".</li>
+    <li>The Collapse: Why measurement breaks the symmetry of time.</li>
+    <li>The Controversy: Why Einstein, Schrödinger, and Penrose complained about this apparent inconsistency.</li>
+    <li>Quantum Gravity: Is space-time continuous or made of discrete "grains"?</li>
+</ul>
+
+This video is part of my English YouTube Channel, <a href="https://www.youtube.com/@DrTahaSelim" target="_blank">Taha Selim's Open Lab</a>.
+ </p>
+</div>
+
+<!-- ================================================================= -->
+<div class="video-container">
+    <h3>Quantum Computing for X-ray Astronomy (November 25th, 2025) </h3>
+    <p><em> SRON Space Research Organisation Netherlands </em></p>
+    <p> Language: English </p>
+    <p><em>Role: Speaker/Instructor</em></p>
+    <p><em>Location: SRON, Leiden, the Netherlands</em></p>
+ <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
+        <img src="/assets/images/SRON_Nov_25_2025/1764251176303.jpg" alt="KAUST Talk Photo" style="width: 49%; height: auto; border-radius: 4px;">
+        <img src="/assets/images/SRON_Nov_25_2025/1764251177671.jpg" alt="KAUST Talk Photo" style="width: 49%; height: auto; border-radius: 4px;">
+    </div>
+    <p>
+
+  Together with  <a href="https://www.linkedin.com/in/janblommaart/" target="_blank">Jan Blommaart</a>, were pleased to give a talk at the SRON Space Research Organisation Netherlands colloquium in Leiden this past Tuesday. We presented an overview of the current quantum hardware landscape and demonstrated use cases for molecular simulations on IBM Quantum hardware.
+<br><br>
+We specifically highlighted our newly developed quantum algorithms and procedures, concluding with a discussion on the future potential of quantum computing for modeling infrared and X-ray spectroscopy. 
+<br><br>
+Special thanks to Dr. Liyi Gu and <a href="https://www.linkedin.com/in/jelle-de-plaa/" target="_blank">Dr. Jelle de Plaa</a> from SRON Space Research Organisation Netherlands for the kind invite. 
+
+Colliquim Information: 
+```html
+<ul>
+    <li>Check out SRON Colloquium Slides of <a href="https://www.linkedin.com/in/tiselim/"
+    target="_blank">Taha Selim</a> <a href="https://github.com/tahaselim/presentations/blob/master/SRON_Seminar_Nov_2025_2025/SRON_seminar__tahaselim_nov_25_2025.pdf" target="_blank">here</a>.
+    </li>
+   <li>SRON Colloquium Slides of <a href="https://www.linkedin.com/in/janblommaart/" target="_blank">Jan Blommaart</a> <a href="https://github.com/tahaselim/presentations/blob/master/SRON_Seminar_Nov_2025_2025/selected%20IBM%20Quantum%20Computing%20hardware%20and%20software_developments_25-11-2025_JBL.pdf" target="_blank">here</a>.
+    </li>
+</ul>
+
+ </p>
+</div>
+
+<!-- ================================================================= -->
+
+<!-- Add another video container here -->
+<div class="video-container">
+    <h3>SAF Conference, 100 Years of Quantum (December 5th, 2025) </h3>
+    <p> Language: Arabic </p>
+    <p><em>Role: Speaker</em></p>
+    <p><em>Location: Online</em></p>
+    <div class="video-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/z4CFRApmXO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <p>
+
+Talk delivered during the 100 Years of Quantum Conference organized by the Scientific Arab Forum (SAF) on December 5th, 2025.
+<br><br>
+The Scientific Arab Forum (SAF) presented its First Conference on Physical Sciences: “100 Years of Quantum”, held on December 5–6, 2025, celebrating one hundred years since the birth of Quantum Science — marked by the groundbreaking works of Heisenberg, Dirac, and de Broglie in 1925.
+<br><br>
+Over two days, the conference hosted a distinguished group of leading Arab scientists from around the world, representing diverse fields of quantum science, and was conducted in a blend of Arabic and English to foster inclusive and engaging discussions across audiences.
+<br><br>
+For more information, please refer to the original linkedin <a href="https://www.linkedin.com/posts/safonline_safpsc25-safphysics25-aepaesaetaeuaesaexaexabraepaesaehaezaeqaeyabraepaesaehaesaetaey-activity-7400520967803969536-8DoW" target="_blank">post</a>, conference page on SAF <a href="https://www.safonline.org/conferences..." target="_blank">website</a> 
+and on the UNESCO-supported <a href="https://tinyurl.com/3b2hn4wm" target="_blank">IYQ website</a>.
+ </p>
+</div>
+
+<div class="video-container">
+    <h3>QED-C Quantum AI panel - March 12th, 2025</h3>
+    <p> Language: English </p>
+    <p><em>Role: Panelist</em></p>
+    <div class="video-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5yBo3Jb71so" title="QED-C Quantum AI panel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <p>QED-C Discussion and Panel on the Future of Quantum and AI (March 12th, 2025)
+    (<a href="https://www.linkedin.com/posts/qedc_last-call-to-join-us-on-wednesday-march-activity-7304954073571549184-YCZe?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwOQrsBM65l-YlsjsOuNrUPzRcAydnhtuk" target="_blank">LinkedIn post</a>) 
+    with (<a href="https://www.linkedin.com/in/cierra-choucair-0091b817b/" target="_blank">Cierra Choucair</a>, <a href="https://www.linkedin.com/in/alain-chanc%C3%A9-b4714a2/" target="_blank">Alain Chancé</a>, <a href="https://www.linkedin.com/in/damircavar/" target="_blank">Damir Cavar</a>, <a href="https://www.linkedin.com/in/bob-coecke-86895a6/" target="_blank">Bob Coecke</a>, and <a href="https://www.linkedin.com/in/tiselim/" target="_blank">Taha Selim</a>) 
+    (the recording is available on the <a href="https://www.youtube.com/watch?v=5yBo3Jb71so" target="_blank">QED-C YouTube channel</a>).
+    <br><br>
+    A key goal of this meeting is to discuss QED-C® recommendations for the Quantum Computing and Artificial Intelligence Use Cases committee.
+    <br><br>
+    I shared insights on how HPC/quantum computing and AI are driving advancements in quantum chemistry and quantum computing, including AI's role in developing new quantum algorithms. 
+    <br><br>
+    Additionally, next the points of the brilliant speakers, I contributed to discussion about the broader impact of quantum computing activities and education on society, industry, the future workforce, and the expansion of the latent pool.
+    </p>
+</div>
