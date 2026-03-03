@@ -22,6 +22,35 @@ Here you will find a collection of my recorded lectures, seminars, and presentat
 <hr>
 -->
 
+
+
+<div class="video-container">
+    <h3>Step into Quantum Technologies Workshop (March 1st, 2026) </h3>
+    <p><em>QCity, <a href="https://www.zewailcity.edu.eg/" target="_blank">Zewail City for Science, Technology and Innovation</a> </em></p>
+    <p> Language: Arabic </p>
+    <p><em>Role: Speaker/Instructor</em></p>
+    <p><em>Location: Online</em></p>
+    <div class="video-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/woPHR4RpQ3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <p>
+Step Into the Quantum Technologies workshop, March 1-2, 2026, in collaboration with iQafé & Egypt Quantum Computing Community (EgQCC)! Check out the LinkedIn <a href="https://www.linkedin.com/posts/qcity-zewail_our-first-workshop-is-here-and-we-couldnt-activity-7433164202946682880-NBoL" target="_blank">post</a>. 
+<br>
+
+We covered the following topics:
+<ul>
+    <li>Computational complexity in quantum simulations</li>
+    <li>Quantum Computing</li>
+    <li>Quantum Machine Learning</li>
+    <li>Quantum AI</li>
+</ul>
+
+<br><br>
+For more information, visit iQafé's <a href="https://www.linkedin.com/company/iqafe/" target="_blank">LinkedIn page</a> and iQafé's <a href="https://www.youtube.com/@iqafe" target="_blank">YouTube Channel</a>.
+
+ </p>
+</div>
+
 <!-- add another video container here -->
 <div class="video-container">
     <h3>Quantum Dynamics of Molecules in Space (February 1st, 2026)</h3>
