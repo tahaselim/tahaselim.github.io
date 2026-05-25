@@ -10,7 +10,7 @@ title: Publications
 * "Constant of Error", Clark Alexander and Taha Selim, in preparation.
 * "Quantum Computing and Software Engineering", Taha Selim, in preparation.
 
-## Research paper
+## Research papers
 
 * "Multi-channel distorted-wave Born approximation for rovibrational transition rates in molecular collisions",
   Taha Selim, Arthur Christianen, Ad van der Avoird, and Gerrit C. Groenenboom,
