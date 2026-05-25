@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Talks
+title: Talks & Lectures
 ---
 
-# Talks
+# Talks & Lectures
 
 Here you will find a collection of my recorded lectures, seminars, and presentations on quantum information, machine learning, and quantum chemistry. All arranged in Chronological order.
 
