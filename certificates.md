@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Certificates
+nav_exclude: true
+
 ---
 
 # Certificates

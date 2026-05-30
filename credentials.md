@@ -1,6 +1,8 @@
 ---
+nav_exclude: true
 layout: default
 title: Credentials
+
 ---
 
 # Credentials
