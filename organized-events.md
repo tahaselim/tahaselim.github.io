@@ -31,5 +31,5 @@ title: Organized Events & Conferences
         [Photo 3](/assets/images/Alex_Q_mini_hackathon_may_2026/1779462440962.jpeg)
         
         
-    * Hackathon LinkedIn reviews by participants: [Reviews Link 1: Omar Mahdy](https://www.linkedin.com/posts/omar-elfarouk-mahdy_quantumcomputing-postquantumcryptography-activity-7462956193716576256-XYQy?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwOQrsBM65l-YlsjsOuNrUPzRcAydnhtuk), 
+    * Hackathon LinkedIn reviews by participants: [Reviews Link 1: Omar Mahdy](https://www.linkedin.com/posts/omar-elfarouk-mahdy_quantumcomputing-postquantumcryptography-activity-7462956193716576256-XYQy?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwOQrsBM65l-YlsjsOuNrUPzRcAydnhtuk).
     

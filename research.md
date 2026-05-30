@@ -23,14 +23,8 @@ Interested in how the universe works from the perspective of quantum information
 ## Ongoing Projects
 
 - **Project Orbtial**: 
-<!-- 
-## 2. Project Title (If Applicable)
-
--   **Objective:** [Describe the goal or purpose of the project.]
--   **Methods:** [Explain the techniques or approaches used.]
--   **Significance:** [State why this research is important or what impact it has.]
- -->
-
+Modeling x-ray spectra with quantum AI and advanced quantum theoretical and computational chemistry. This project is done in collaboration with BioDAC, SRON, and Amsterdam University of Applied Sciences. 
+  * Project Colliquia: 
 
 ## Academic degree projects
 
@@ -56,8 +50,12 @@ The thesis is structured around several major advancements in theoretical chemis
 
 ### ***MSc Thesis***: 
 
-**M.Sc. Thesis title:** *Control of Quantum Interference in Molecular Processes*, University of Burgundy and Université Paris-Sud, France, 2017. The work involved designing laser pulse shapes to control molecular processes such as bond breaking in femtosecond scale. 
+**M.Sc. Thesis title:** *Control of Quantum Interference in Molecular Processes*, University of Burgundy and Université Paris-Sud, France, 2017. 
+
+**Description:** The work involved designing laser pulse shapes to control molecular processes such as bond breaking in femtosecond scale. 
+* **M.Sc. thesis copy**: [PDF](https://www.researchgate.net/publication/318009556_Control_of_Quantum_Interference_in_Molecular_Processes)
 
 ### ***BSc Thesis***: 
-Supersymmetric quantum mechanics. Each Hamiltonian has a partner Hamiltonian, such that they share the same energy eigenvalues. However, one has a complicated potential resulting in a complicated wave function (solution), and the other has a simple potential resulting in a simple wave function (solution). The trick is to use the latter to find the solution of the former. The main feature is, the ground state of the superpartner Hamiltonian is the first excited state of the partner Hamiltonian.
+* **Research topic**: Supersymmetric quantum mechanics.
+* **Description**: Each Hamiltonian has a partner Hamiltonian, such that they share the same energy eigenvalues. However, one has a complicated potential resulting in a complicated wave function (solution), and the other has a simple potential resulting in a simple wave function (solution). The trick is to use the latter to find the solution of the former. The main feature is, the ground state of the superpartner Hamiltonian is the first excited state of the partner Hamiltonian.
 
