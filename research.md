@@ -5,7 +5,8 @@ title: Research
 
 # Research
 
-Here you will find an overview of my research interests, ongoing projects, and key contributions to the fields of quantum information, machine learning, and quantum chemistry.
+Here you will find an overview of my research interests, ongoing projects, and key contributions to the fields of quantum information, machine learning, and quantum chemistry. 
+Visit my [research profile](https://www.amsterdamuas.com/research/research-groups/applied-quantum-computing/team) at Amsterdam University of Applied Sciences website.
 
 ## Core Research Areas
 
@@ -23,7 +24,7 @@ Interested in how the universe works from the perspective of quantum information
 ## Ongoing Projects
 
 - **Project Orbtial**: 
-Modeling x-ray spectra with quantum AI and advanced quantum theoretical and computational chemistry. This project is done in collaboration with BioDAC, SRON, and Amsterdam University of Applied Sciences. 
+Modeling x-ray spectra with quantum AI and advanced quantum theoretical and computational chemistry. This project is done in collaboration with BioDAC, SRON, and Amsterdam University of Applied Sciences. Recently, we have been awarded a KIEM-HighTech grant for this project. 
   * Project Colliquia: 
 
 ## Academic degree projects
